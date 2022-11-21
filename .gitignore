@@ -1,0 +1,6 @@
+#Ignorando archivos
+*node_modules
+*.vscode
+*src
+*package-lock.json
+*package.json
